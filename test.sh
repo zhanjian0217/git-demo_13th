@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-echo "這是 Git-demo"
+echo "這是 Git-Demo"
 
-echo -n "請問今天天氣好嗎？"
+echo -n "請輸入你的姓名？"
 read -r ans
 
-echo "$ans"
+echo "$ans 你好，歡迎來到 Git-Demo"
