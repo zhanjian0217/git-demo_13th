@@ -1,6 +1,6 @@
 # frozend_string_literal: true
 
-class Cat
+class Dog
   attr_reader :name, :age
 
   def initialize(name: nil, age: nil)
